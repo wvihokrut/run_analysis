@@ -18,9 +18,9 @@ Data + Description can be found here [UCI Machine Learning Repository](http://ar
 
 See: 
 
-Analysis R Script |  run_analysis.R |  [Repo Link](https://github.com/wvihokrut/run_analysis/blob/master/README.md "README.md")
+Analysis R Script |  run_analysis.R |  [R Script Link](https://github.com/wvihokrut/run_analysis/blob/master/run_analysis.R "run_analysis.R")
 
-## Please see the README.md for how the following instructions are implemented [README.md](https://github.com/mGalarnyk/datasciencecoursera/blob/master/3_Getting_and_Cleaning_Data/README.md)
+## Please see the README.md for how the following instructions are implemented README |  [Repo Link](https://github.com/wvihokrut/run_analysis/blob/master/README.md "README.md")
 ### 1. Merge the training and the test sets to create one data set.
 ### 2. Extracts only the measurements on the mean and standard deviation for each measurement.
 ### 3. Uses descriptive activity names to name the activities in the data set
